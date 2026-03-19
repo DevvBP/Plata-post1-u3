@@ -1,6 +1,5 @@
 package com.universidad.tienda.adapter;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 /**
