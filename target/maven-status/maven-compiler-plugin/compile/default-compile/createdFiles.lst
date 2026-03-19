@@ -1,0 +1,10 @@
+com\universidad\tienda\composite\Categoria.class
+com\universidad\tienda\adapter\PayPalAPI.class
+com\universidad\tienda\servicio\TiendaServicio.class
+com\universidad\tienda\adapter\PayPalAdapter.class
+com\universidad\tienda\adapter\StripeAdapter.class
+com\universidad\tienda\adapter\StripeAPI.class
+com\universidad\tienda\composite\Producto.class
+com\universidad\tienda\TiendaApp.class
+com\universidad\tienda\adapter\PasarelaPago.class
+com\universidad\tienda\composite\ItemCatalogo.class
