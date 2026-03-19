@@ -66,3 +66,15 @@ A continuación se presenta la salida real capturada de la consola al ejecutar l
 [INFO] BUILD SUCCESS
 [INFO] ------------------------------------------------------------------------
 ```
+
+---
+
+## Capturas de Pantalla Proporcionadas por el Usuario
+
+A continuación se añaden las evidencias en formato de imagen de las ejecuciones exitosas en el entorno local.
+
+### 1. Pruebas Unitarias de JUnit 5
+![Tests JUnit 5](evidencias/tests-junit.png)
+
+### 2. Ejecución Completa de los Patrones
+![Ejecución Completa](evidencias/ejecucion-patrones.png)
